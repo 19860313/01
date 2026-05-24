@@ -2153,7 +2153,7 @@
         {
             "name": "💕雷哥制作者直播8",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/19860313/01/refs/heads/main/2026.txt",
+            "url": "https://raw.githubusercontent.com/19860313/01/refs/heads/main/66.txt",
             "playerType": 2,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
